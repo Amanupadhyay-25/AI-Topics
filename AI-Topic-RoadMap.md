@@ -23,17 +23,5 @@
 | 21 | **Azure Deployment**          | App Service/Container Apps, Key Vault, etc.                   |
 | 22 | **AI Production**             | Logging, evaluation, security, cost, monitoring               |
 
-Layer 1 — Understand the model
-AI Basics
-   ↓
-LLM
-   ↓
-Tokens
-   ↓
-Embeddings
-   ↓
-Attention
-   ↓
-Transformers
-   ↓
-LLM Architecture
+**Layer 1 — Understand the mode**l
+AI Basics -> LLM -> Tokens -> Embeddings -> Attention -> Transformers -> LLM Architecture
